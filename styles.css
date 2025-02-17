@@ -1,0 +1,54 @@
+body { 
+    background-color: rgb(28, 86, 173);
+    color: rgb(117, 212, 243);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    
+}
+
+h1 {
+    color:rgb(117, 212, 243);
+    background-color: rgb(17, 52, 103);
+    text-align: center;
+    border-radius: 32px;
+    padding: 10px;
+}
+img {
+    border: 10px solid rgba(251, 251, 251, 0.871);
+    border-radius: 25px;
+}
+
+ol { 
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 25px;
+    color: seashell;
+    border: 5px solid rgb(17, 52, 103);
+
+}
+a {
+    transition: 0.5s ease-in-out; 
+    color: rgb(10, 47, 126);
+    background-color: snow;
+    padding: 10px;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+
+a:hover {
+    transition: 0.5s ease-in-out; 
+    color: rgb(153, 180, 237);
+    background-color: rgb(14, 7, 114);
+    padding: 10px;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+p {
+    color: seashell;
+}
+li { 
+    margin-left: 30px;
+}
